@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="About">
+        <menu>
+            <item android:id="@+id/Demo" android:title="Demo"></item>
+        </menu>
+    </item>
+    <item android:title="Setting">
+        <menu>
+            <item android:id="@+id/logout" android:title="Logout"></item>
+            <item android:id="@+id/logout2" android:title="Setting"></item>
+            <item android:id="@+id/logout3" android:title="Theme"></item>
+        </menu>
+    </item>
+</menu>
